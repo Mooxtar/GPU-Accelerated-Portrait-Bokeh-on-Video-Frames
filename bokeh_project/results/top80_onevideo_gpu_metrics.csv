@@ -1,0 +1,2 @@
+mode,clips,frames,fps,blur_radius,feather,crf,load_s,mask_s,h2d_s,kernels_s,d2h_s,gpu_compute_total_s,pipewrite_s,total_s,ms_per_frame_total,out_video
+gpu,80,2608,30,18,11,23,21.098,10.940,1.317,1.203,0.420,2.940,3.295,38.643,14.817,/users/mrabayev/gpu_course/GP25_Labs/bokeh_run/final_end2end/videos/top80_gpu.mp4

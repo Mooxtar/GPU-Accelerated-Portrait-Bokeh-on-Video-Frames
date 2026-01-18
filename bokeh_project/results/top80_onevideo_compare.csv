@@ -1,0 +1,2 @@
+frames,cpu_total_s,gpu_total_s,speedup_total,cpu_compute_s,gpu_compute_s,speedup_compute,cpu_ms_pf,gpu_ms_pf,cpu_out_video,gpu_out_video,cpu_csv,gpu_csv
+2608,54.118000,38.643000,1.400461,14.541000,2.940000,4.945918,20.751000,14.817000,/users/mrabayev/gpu_course/GP25_Labs/bokeh_run/final_end2end/videos/top80_cpu.mp4,/users/mrabayev/gpu_course/GP25_Labs/bokeh_run/final_end2end/videos/top80_gpu.mp4,bokeh_project/results/top80_onevideo_cpu_metrics.csv,bokeh_project/results/top80_onevideo_gpu_metrics.csv
